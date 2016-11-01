@@ -1,0 +1,3 @@
+[submodule "pack/karu_plugins/start/vim-airline"]
+	path = pack/karu_plugins/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
