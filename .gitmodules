@@ -1,3 +1,6 @@
 [submodule "pack/karu_plugins/start/vim-airline"]
 	path = pack/karu_plugins/start/vim-airline
 	url = https://github.com/vim-airline/vim-airline.git
+[submodule "pack/karu_plugins/start/nerdtree"]
+	path = pack/karu_plugins/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
