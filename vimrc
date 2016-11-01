@@ -1,4 +1,8 @@
 "execute pathoghen#infect()
+
+" Load Plugins
+autocmd vimenter * NERDTree
+
 colorscheme desert
 " Shows numbered lines
 set number
